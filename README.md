@@ -1,3 +1,4 @@
+# 👨‍💻 Pedro Henrique
 
 **`Estudante de Desenvolvimento de Sistemas | Back-end Developer`**
 
@@ -98,6 +99,12 @@ Tenho grande interesse pela área de tecnologia, especialmente pelo desenvolvime
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+
+
+
+
+
 
 <br/>
 <br/>
